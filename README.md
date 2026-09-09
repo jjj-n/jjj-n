@@ -16,7 +16,7 @@
 
 ## 👨‍💻 关于我
 
-- **主要技术：** Java、Spring Boot、MySQL、Redis、RocketMQ
+- **主要技术：** Golang、gRPC、Java、Spring Boot、MySQL、Redis、RocketMQ
 - **工程方向：** 异步任务、幂等与去重、限流、任务恢复、可观测性
 - **AI 方向：** LangChain4j、RAG、Agent Loop、多模态内容处理
 - **近期实践：** 持续参与 Java 与 AI 基础设施相关开源项目
@@ -67,7 +67,7 @@ Qdrant · LangChain4j · FFmpeg · Vue 3
 
 ### 后端
 
-Java · Spring Boot · MySQL · Redis · RocketMQ · Redisson
+Golang · gRPC · Java · Spring Boot · MySQL · Redis · RocketMQ · Redisson
 
 ### 工程
 
