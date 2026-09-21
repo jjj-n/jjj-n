@@ -47,7 +47,7 @@
 - 检索与 Agent 编排：结合关键词与向量检索，通过 Planner–Executor–Critic 工作流生成结论、检查证据并定向补检。
 - 恢复与评测：使用 MySQL Checkpoint 与 Redis 热缓存恢复任务；公开评测方法、数据集说明和适用边界。
 
-**技术栈：**Java 21 · Spring Boot · MySQL · Redis · RocketMQ · MinIO · Qdrant · LangChain4j · FFmpeg · Vue 3
+技术栈：Java 21 · Spring Boot · MySQL · Redis · RocketMQ · MinIO · Qdrant · LangChain4j · FFmpeg · Vue 3
 
 [查看项目与运行说明](https://github.com/jjj-n/DoVideoAI) · [查看评测方法与结果](https://github.com/jjj-n/DoVideoAI/tree/master/benchmark)
 
