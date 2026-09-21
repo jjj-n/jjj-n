@@ -42,10 +42,10 @@
 
 面向长视频内容理解，将 ASR、OCR 与时间戳证据组织为可检索、可追溯、可继续追问的结构化知识。
 
-- **异步任务与并发控制：**分片上传与断点续传，RocketMQ 异步消费，结合 Redis 去重、Redisson 锁与限流控制重复执行和调用成本。
-- **多模态内容处理：**ASR / OCR 双路并行，融合语音、画面文字、关键帧与时间戳，构建统一的 `VideoContext`。
-- **检索与 Agent 编排：**结合关键词与向量检索，通过 Planner–Executor–Critic 工作流生成结论、检查证据并定向补检。
-- **恢复与评测：**使用 MySQL Checkpoint 与 Redis 热缓存恢复任务；公开评测方法、数据集说明和适用边界。
+- 异步任务与并发控制：分片上传与断点续传，RocketMQ 异步消费，结合 Redis 去重、Redisson 锁与限流控制重复执行和调用成本。
+- 多模态内容处理：ASR / OCR 双路并行，融合语音、画面文字、关键帧与时间戳，构建统一的 `VideoContext`。
+- 检索与 Agent 编排：结合关键词与向量检索，通过 Planner–Executor–Critic 工作流生成结论、检查证据并定向补检。
+- 恢复与评测：使用 MySQL Checkpoint 与 Redis 热缓存恢复任务；公开评测方法、数据集说明和适用边界。
 
 **技术栈：**Java 21 · Spring Boot · MySQL · Redis · RocketMQ · MinIO · Qdrant · LangChain4j · FFmpeg · Vue 3
 
