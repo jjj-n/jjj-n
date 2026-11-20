@@ -20,9 +20,8 @@
 
 [查看所有已合并的 PR](https://github.com/search?q=is%3Apr+author%3Ajjj-n+is%3Amerged&type=pullrequests)
 
-## 贡献贪吃蛇
+## 贪吃蛇
 
-2026 年 8 月 29 日至 11 月 20 日的公开贡献，共 37 个活跃日。
 
 ![青紫色贪吃蛇逐个点亮 37 个有公开贡献的日期格](assets/contribution-snake.gif)
 
