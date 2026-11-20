@@ -1,4 +1,4 @@
-![jjj-n](assets/profile-banner.png)
+![jjj-n](assets/profile-banner.gif)
 
 # Go 后端 · AI 应用开发
 
