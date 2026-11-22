@@ -20,7 +20,7 @@
 
 [![查看所有已合并的 PR](assets/merged-pr-link.svg)](https://github.com/search?q=is%3Apr+author%3Ajjj-n+is%3Amerged&type=pullrequests)
 
-![jjj-n 的 GitHub 统计（2026-11-22，公开仓库）：发起 62 个 PR，39 个已合并，评审过 7 个 PR](assets/open-source-overview.svg)
+![jjj-n 的 GitHub 统计（2026-11-22，公开仓库）：获星 11，历年提交 260，发起 62 个 PR，39 个已合并，GitHub Readme Stats 评级 B-](assets/open-source-overview.svg)
 
 ## 代表项目
 
