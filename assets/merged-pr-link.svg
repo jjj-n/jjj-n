@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174" height="32" viewBox="0 0 174 32" role="img" aria-labelledby="title">
+  <title id="title">查看所有已合并的 PR</title>
+  <style>
+    rect { fill: #eff4f9; stroke: #cbd8e5; }
+    text { fill: #36526e; }
+    path { stroke: #36526e; }
+    @media (prefers-color-scheme: dark) {
+      rect { fill: #202c3a; stroke: #526a82; }
+      text { fill: #c7daec; }
+      path { stroke: #c7daec; }
+    }
+  </style>
+  <rect x=".5" y=".5" width="173" height="31" rx="7"/>
+  <text x="12" y="16" dominant-baseline="central" font-family="system-ui, Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13" font-weight="600">查看所有已合并的 PR</text>
+  <path d="M147 16h12m-4-4 4 4-4 4" fill="none" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

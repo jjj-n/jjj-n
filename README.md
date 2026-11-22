@@ -18,12 +18,9 @@
 - **LangChainGo**。补齐 Anthropic 请求成功后的结束回调，让调用追踪能正常关闭 span。 [#1538](https://github.com/tmc/langchaingo/pull/1538)
 - **ArcadeDB**。修复快照切换中断后的恢复流程，避免重试误删已安装的快照文件。 [#7940](https://github.com/ArcadeData/arcadedb/pull/7940)
 
-[查看所有已合并的 PR](https://github.com/search?q=is%3Apr+author%3Ajjj-n+is%3Amerged&type=pullrequests)
+[![查看所有已合并的 PR](assets/merged-pr-link.svg)](https://github.com/search?q=is%3Apr+author%3Ajjj-n+is%3Amerged&type=pullrequests)
 
-## 贪吃蛇
-
-
-![青紫色贪吃蛇逐个点亮 37 个有公开贡献的日期格](assets/contribution-snake.gif)
+![jjj-n 的 GitHub 统计（2026-11-22，公开仓库）：发起 62 个 PR，39 个已合并，评审过 7 个 PR](assets/open-source-overview.svg)
 
 ## 代表项目
 
